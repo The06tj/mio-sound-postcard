@@ -1,0 +1,9 @@
+{
+  "name": "mio-sound-postcard",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A little sound, a few words, a postcard to keep. Local-only audio postcards.",
+  "scripts": { "build": "node scripts/build.mjs", "test": "node --test tests/*.test.mjs", "dev": "node scripts/serve.mjs" },
+  "license": "MIT"
+}
