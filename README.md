@@ -82,9 +82,21 @@ Fork this repository and select **GitHub Actions** as the Pages source in reposi
 
 想先试试？点击「试试这一小段白日梦」就能开始。
 
+## Contributors
+
+Made by [Tim (@The06tj)](https://github.com/The06tj) & [Mio (@Mio0817)](https://github.com/Mio0817).
+
+Tim is the project owner and maintainer. Mio is the AI assistant used through OpenAI Codex for implementation, documentation, and testing.
+
+## 贡献者
+
+由 [Tim (@The06tj)](https://github.com/The06tj) 与 [Mio (@Mio0817)](https://github.com/Mio0817) 共同制作。
+
+Tim 是项目所有者与维护者。Mio 是通过 OpenAI Codex 参与实现、文档与测试的 AI 助手。
+
 ## Credits and license
 
-Made by Tim & Mio. The short demo phrase is synthesized in code with no borrowed samples. The sunset artwork was generated for this project using OpenAI image generation and optimized locally. No third-party asset pack or audio recording is bundled.
+The short demo phrase is synthesized in code with no borrowed samples. The sunset artwork was generated for this project using OpenAI image generation and optimized locally. No third-party asset pack or audio recording is bundled.
 
 Code and bundled project assets are offered under the [MIT License](LICENSE), to the extent rights apply. You keep responsibility for the sounds and text you choose to share.
 
